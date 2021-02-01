@@ -13,6 +13,8 @@ namespace DegerveReferansTipler
             sayi2 = 65;
             Console.WriteLine(sayi1);
             Console.WriteLine(sayi2);
+
+
         }
     }
 }
